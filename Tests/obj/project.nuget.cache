@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W4BDzTQbnCWsiqJMpBSF1o/g7qMiDxphPbRFqkHNbN+xA73U/b3vHmrf2CYNWkyQnuGh9ZIhlsxmOJ7kZ4e7LQ==",
+  "dgSpecHash": "SIhIzut4AwpugBYFR3lERaot9xXThuigPDj5T2bNyEuuF6+12sdTskZorcqlCFt1DA6BbmbwcRyKvt0/RyhohA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rbett\\Documents\\Projects\\C#\\Algorightms\\TwoSumTests\\TwoSumTests.csproj",
+  "projectFilePath": "C:\\Users\\rbett\\Documents\\Projects\\C#\\Algorightms\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rbett\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\rbett\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

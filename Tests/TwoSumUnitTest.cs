@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using TwoSum;
 
-namespace TwoSumTests
+namespace Tests
 {
     public class TwoSumUnitTest
     {
@@ -14,7 +14,7 @@ namespace TwoSumTests
             var outPut = new[] { 0,1};
             
             
-            Assert.AreEqual(TwoSum.Algo.Solution(nums,target),outPut);
+            Assert.AreEqual(TwoSumAlgo.Solution(nums,target),outPut);
         }
     }
 }

@@ -3,16 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace TwoSum
-{
-    public class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-
-    public static class Algo
+{ 
+    public static class TwoSumAlgo
     {
         public static int[] Solution(int[] nums, int target)
         {

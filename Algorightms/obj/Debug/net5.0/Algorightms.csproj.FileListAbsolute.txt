@@ -1,0 +1,16 @@
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\bin\Debug\net5.0\Algorightms.exe
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\bin\Debug\net5.0\Algorightms.deps.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\bin\Debug\net5.0\Algorightms.runtimeconfig.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\bin\Debug\net5.0\Algorightms.runtimeconfig.dev.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\bin\Debug\net5.0\Algorightms.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\bin\Debug\net5.0\ref\Algorightms.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\bin\Debug\net5.0\Algorightms.pdb
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\obj\Debug\net5.0\Algorightms.csproj.AssemblyReference.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\obj\Debug\net5.0\Algorightms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\obj\Debug\net5.0\Algorightms.AssemblyInfoInputs.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\obj\Debug\net5.0\Algorightms.AssemblyInfo.cs
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\obj\Debug\net5.0\Algorightms.csproj.CoreCompileInputs.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\obj\Debug\net5.0\Algorightms.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\obj\Debug\net5.0\ref\Algorightms.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\obj\Debug\net5.0\Algorightms.pdb
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Algorightms\obj\Debug\net5.0\Algorightms.genruntimeconfig.cache

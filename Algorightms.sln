@@ -4,7 +4,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorightms", "Algorightms\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{01360077-0CC6-46EF-ACCF-0B7A325DF2B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSumTests", "TwoSumTests\TwoSumTests.csproj", "{D99532C4-0730-4150-BB39-5E844DA32464}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D99532C4-0730-4150-BB39-5E844DA32464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{93AF0589-5853-44C5-94B4-86D17E5CB86B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +26,9 @@ Global
 		{D99532C4-0730-4150-BB39-5E844DA32464}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D99532C4-0730-4150-BB39-5E844DA32464}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D99532C4-0730-4150-BB39-5E844DA32464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AF0589-5853-44C5-94B4-86D17E5CB86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AF0589-5853-44C5-94B4-86D17E5CB86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AF0589-5853-44C5-94B4-86D17E5CB86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AF0589-5853-44C5-94B4-86D17E5CB86B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
