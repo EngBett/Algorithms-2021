@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorightms", "Algorightms\Algorightms.csproj", "{FBB390C7-1AEE-4853-9DB7-23F6C35CD55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB390C7-1AEE-4853-9DB7-23F6C35CD55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB390C7-1AEE-4853-9DB7-23F6C35CD55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB390C7-1AEE-4853-9DB7-23F6C35CD55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB390C7-1AEE-4853-9DB7-23F6C35CD55B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
