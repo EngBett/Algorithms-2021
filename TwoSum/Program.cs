@@ -1,17 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
-namespace Algorightms
+namespace TwoSum
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
     }
-    
-    public static class TwoSum
+
+    public static class Algo
     {
         public static int[] Solution(int[] nums, int target)
         {
