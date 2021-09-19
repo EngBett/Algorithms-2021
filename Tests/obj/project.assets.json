@@ -1254,6 +1254,16 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "ThreeSum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ThreeSum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ThreeSum.dll": {}
+        }
+      },
       "TwoSum/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -4953,6 +4963,11 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "ThreeSum/1.0.0": {
+      "type": "project",
+      "path": "../ThreeSum/ThreeSum.csproj",
+      "msbuildProject": "../ThreeSum/ThreeSum.csproj"
+    },
     "TwoSum/1.0.0": {
       "type": "project",
       "path": "../TwoSum/TwoSum.csproj",
@@ -4964,6 +4979,7 @@
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.1",
       "NUnit3TestAdapter >= 3.17.0",
+      "ThreeSum >= 1.0.0",
       "TwoSum >= 1.0.0",
       "coverlet.collector >= 3.0.2"
     ]
@@ -5006,6 +5022,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\rbett\\Documents\\Projects\\C#\\Algorightms\\ThreeSum\\ThreeSum.csproj": {
+              "projectPath": "C:\\Users\\rbett\\Documents\\Projects\\C#\\Algorightms\\ThreeSum\\ThreeSum.csproj"
+            },
             "C:\\Users\\rbett\\Documents\\Projects\\C#\\Algorightms\\TwoSum\\TwoSum.csproj": {
               "projectPath": "C:\\Users\\rbett\\Documents\\Projects\\C#\\Algorightms\\TwoSum\\TwoSum.csproj"
             }

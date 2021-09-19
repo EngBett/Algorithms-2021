@@ -3,7 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace TwoSum
-{ 
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("");
+        }
+    }
     public static class TwoSumAlgo
     {
         public static int[] Solution(int[] nums, int target)

@@ -106,3 +106,9 @@ C:\Users\rbett\Documents\Projects\C#\Algorightms\Tests\obj\Debug\net5.0\Tests.dl
 C:\Users\rbett\Documents\Projects\C#\Algorightms\Tests\obj\Debug\net5.0\ref\Tests.dll
 C:\Users\rbett\Documents\Projects\C#\Algorightms\Tests\obj\Debug\net5.0\Tests.pdb
 C:\Users\rbett\Documents\Projects\C#\Algorightms\Tests\obj\Debug\net5.0\Tests.genruntimeconfig.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Tests\bin\Debug\net5.0\ThreeSum.deps.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Tests\bin\Debug\net5.0\ThreeSum.runtimeconfig.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Tests\bin\Debug\net5.0\ThreeSum.runtimeconfig.dev.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Tests\bin\Debug\net5.0\ThreeSum.exe
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Tests\bin\Debug\net5.0\ThreeSum.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Tests\bin\Debug\net5.0\ThreeSum.pdb

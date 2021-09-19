@@ -1,0 +1,16 @@
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\bin\Debug\net5.0\ThreeSum.exe
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\bin\Debug\net5.0\ThreeSum.deps.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\bin\Debug\net5.0\ThreeSum.runtimeconfig.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\bin\Debug\net5.0\ThreeSum.runtimeconfig.dev.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\bin\Debug\net5.0\ThreeSum.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\bin\Debug\net5.0\ref\ThreeSum.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\bin\Debug\net5.0\ThreeSum.pdb
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\obj\Debug\net5.0\ThreeSum.csproj.AssemblyReference.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\obj\Debug\net5.0\ThreeSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\obj\Debug\net5.0\ThreeSum.AssemblyInfoInputs.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\obj\Debug\net5.0\ThreeSum.AssemblyInfo.cs
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\obj\Debug\net5.0\ThreeSum.csproj.CoreCompileInputs.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\obj\Debug\net5.0\ThreeSum.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\obj\Debug\net5.0\ref\ThreeSum.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\obj\Debug\net5.0\ThreeSum.pdb
+C:\Users\rbett\Documents\Projects\C#\Algorightms\ThreeSum\obj\Debug\net5.0\ThreeSum.genruntimeconfig.cache

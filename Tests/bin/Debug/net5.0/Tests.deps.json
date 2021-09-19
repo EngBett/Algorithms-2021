@@ -11,6 +11,7 @@
           "Microsoft.NET.Test.Sdk": "16.9.4",
           "NUnit": "3.13.1",
           "NUnit3TestAdapter": "3.17.0",
+          "ThreeSum": "1.0.0",
           "TwoSum": "1.0.0",
           "coverlet.collector": "3.0.2"
         },
@@ -870,6 +871,11 @@
           }
         }
       },
+      "ThreeSum/1.0.0": {
+        "runtime": {
+          "ThreeSum.dll": {}
+        }
+      },
       "TwoSum/1.0.0": {
         "runtime": {
           "TwoSum.dll": {}
@@ -1337,6 +1343,11 @@
       "sha512": "sha512-A/uxsWi/Ifzkmd4ArTLISMbfFs6XpRPsXZonrIqyTY70xi8t+mDtvSM5Os0RqyRDobjMBwIDHDL4NOIbkDwf7A==",
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "ThreeSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "TwoSum/1.0.0": {
       "type": "project",
