@@ -1,0 +1,16 @@
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\bin\Debug\net5.0\MinStepsToMakePilesEqualHeight.exe
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\bin\Debug\net5.0\MinStepsToMakePilesEqualHeight.deps.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\bin\Debug\net5.0\MinStepsToMakePilesEqualHeight.runtimeconfig.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\bin\Debug\net5.0\MinStepsToMakePilesEqualHeight.runtimeconfig.dev.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\bin\Debug\net5.0\MinStepsToMakePilesEqualHeight.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\bin\Debug\net5.0\ref\MinStepsToMakePilesEqualHeight.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\bin\Debug\net5.0\MinStepsToMakePilesEqualHeight.pdb
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\obj\Debug\net5.0\MinStepsToMakePilesEqualHeight.csproj.AssemblyReference.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\obj\Debug\net5.0\MinStepsToMakePilesEqualHeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\obj\Debug\net5.0\MinStepsToMakePilesEqualHeight.AssemblyInfoInputs.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\obj\Debug\net5.0\MinStepsToMakePilesEqualHeight.AssemblyInfo.cs
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\obj\Debug\net5.0\MinStepsToMakePilesEqualHeight.csproj.CoreCompileInputs.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\obj\Debug\net5.0\MinStepsToMakePilesEqualHeight.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\obj\Debug\net5.0\ref\MinStepsToMakePilesEqualHeight.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\obj\Debug\net5.0\MinStepsToMakePilesEqualHeight.pdb
+C:\Users\rbett\Documents\Projects\C#\Algorightms\MinStepsToMakePilesEqualHeight\obj\Debug\net5.0\MinStepsToMakePilesEqualHeight.genruntimeconfig.cache
