@@ -1,0 +1,16 @@
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\bin\Debug\net5.0\RightSideOfTree.exe
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\bin\Debug\net5.0\RightSideOfTree.deps.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\bin\Debug\net5.0\RightSideOfTree.runtimeconfig.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\bin\Debug\net5.0\RightSideOfTree.runtimeconfig.dev.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\bin\Debug\net5.0\RightSideOfTree.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\bin\Debug\net5.0\ref\RightSideOfTree.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\bin\Debug\net5.0\RightSideOfTree.pdb
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\obj\Debug\net5.0\RightSideOfTree.csproj.AssemblyReference.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\obj\Debug\net5.0\RightSideOfTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\obj\Debug\net5.0\RightSideOfTree.AssemblyInfoInputs.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\obj\Debug\net5.0\RightSideOfTree.AssemblyInfo.cs
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\obj\Debug\net5.0\RightSideOfTree.csproj.CoreCompileInputs.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\obj\Debug\net5.0\RightSideOfTree.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\obj\Debug\net5.0\ref\RightSideOfTree.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\obj\Debug\net5.0\RightSideOfTree.pdb
+C:\Users\rbett\Documents\Projects\C#\Algorightms\RightSideOfTree\obj\Debug\net5.0\RightSideOfTree.genruntimeconfig.cache
