@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Largest K such that both K and -K exist in array/1.0.0": {
+        "runtime": {
+          "Largest K such that both K and -K exist in array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Largest K such that both K and -K exist in array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

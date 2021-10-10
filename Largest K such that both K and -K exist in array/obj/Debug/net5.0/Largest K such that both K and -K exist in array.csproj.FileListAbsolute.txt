@@ -1,0 +1,16 @@
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\bin\Debug\net5.0\Largest K such that both K and -K exist in array.exe
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\bin\Debug\net5.0\Largest K such that both K and -K exist in array.deps.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\bin\Debug\net5.0\Largest K such that both K and -K exist in array.runtimeconfig.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\bin\Debug\net5.0\Largest K such that both K and -K exist in array.runtimeconfig.dev.json
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\bin\Debug\net5.0\Largest K such that both K and -K exist in array.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\bin\Debug\net5.0\ref\Largest K such that both K and -K exist in array.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\bin\Debug\net5.0\Largest K such that both K and -K exist in array.pdb
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\obj\Debug\net5.0\Largest K such that both K and -K exist in array.csproj.AssemblyReference.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\obj\Debug\net5.0\Largest K such that both K and -K exist in array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\obj\Debug\net5.0\Largest K such that both K and -K exist in array.AssemblyInfoInputs.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\obj\Debug\net5.0\Largest K such that both K and -K exist in array.AssemblyInfo.cs
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\obj\Debug\net5.0\Largest K such that both K and -K exist in array.csproj.CoreCompileInputs.cache
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\obj\Debug\net5.0\Largest K such that both K and -K exist in array.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\obj\Debug\net5.0\ref\Largest K such that both K and -K exist in array.dll
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\obj\Debug\net5.0\Largest K such that both K and -K exist in array.pdb
+C:\Users\rbett\Documents\Projects\C#\Algorightms\Largest K such that both K and -K exist in array\obj\Debug\net5.0\Largest K such that both K and -K exist in array.genruntimeconfig.cache
