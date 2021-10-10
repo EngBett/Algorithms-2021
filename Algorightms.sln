@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightSideOfTree", "RightSid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinStepsToMakePilesEqualHeight", "MinStepsToMakePilesEqualHeight\MinStepsToMakePilesEqualHeight.csproj", "{A0E9B584-1872-4796-B51D-8228BF6AC33B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishRuler", "EnglishRuler\EnglishRuler.csproj", "{516DD6C3-43B3-4350-8DBC-BBFB35B8081D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest K such that both K and -K exist in array", "Largest K such that both K and -K exist in array\Largest K such that both K and -K exist in array.csproj", "{2185F997-C00F-4222-BB05-49FF2052DF96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{A0E9B584-1872-4796-B51D-8228BF6AC33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0E9B584-1872-4796-B51D-8228BF6AC33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0E9B584-1872-4796-B51D-8228BF6AC33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{516DD6C3-43B3-4350-8DBC-BBFB35B8081D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516DD6C3-43B3-4350-8DBC-BBFB35B8081D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516DD6C3-43B3-4350-8DBC-BBFB35B8081D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516DD6C3-43B3-4350-8DBC-BBFB35B8081D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2185F997-C00F-4222-BB05-49FF2052DF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2185F997-C00F-4222-BB05-49FF2052DF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2185F997-C00F-4222-BB05-49FF2052DF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2185F997-C00F-4222-BB05-49FF2052DF96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
